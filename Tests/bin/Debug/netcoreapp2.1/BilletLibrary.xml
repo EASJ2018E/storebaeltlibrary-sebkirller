@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BilletLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:BilletLibrary.Bil">
+            <summary>Pre-made class, Car</summary>
+        </member>
+        <member name="M:BilletLibrary.Bil.Pris">
+            <summary>
+            Returns the price formatted as decimal.
+            If Brobizz is set to true then the price is reduced by 5%.
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.Bil.Køretøj">
+            <summary>
+            Returns which type of vehicle this is formatted as string.
+            </summary>
+        </member>
+        <member name="T:BilletLibrary.MC">
+            <summary>Pre-made class, Motorcycle</summary>
+        </member>
+        <member name="M:BilletLibrary.MC.Pris">
+            <summary>
+            Returns the price formatted as decimal.
+            If Brobizz is set to true then the price is reduced by 5%.
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.MC.Køretøj">
+            <summary>
+            Returns which type of vehicle this is formatted as string.
+            </summary>
+        </member>
+        <member name="T:BilletLibrary.Vehicle">
+            <summary>Abstract base class which is used to make new vehicles to keep code DRY.</summary>
+        </member>
+        <member name="M:BilletLibrary.Vehicle.Pris">
+            <summary>
+            Method for returning the price formatted as decimal.
+            </summary>
+        </member>
+        <member name="M:BilletLibrary.Vehicle.Køretøj">
+            <summary>
+            Method for returning the type of vehicle formatted as string.
+            </summary>
+        </member>
+    </members>
+</doc>

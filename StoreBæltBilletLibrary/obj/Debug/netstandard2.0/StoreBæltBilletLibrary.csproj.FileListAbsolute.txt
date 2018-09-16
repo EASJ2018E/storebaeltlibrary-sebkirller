@@ -1,0 +1,12 @@
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/bin/Debug/netstandard2.0/StoreBæltBilletLibrary.deps.json
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/bin/Debug/netstandard2.0/StoreBæltBilletLibrary.dll
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/bin/Debug/netstandard2.0/StoreBæltBilletLibrary.pdb
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/bin/Debug/netstandard2.0/BilletLibrary.dll
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/bin/Debug/netstandard2.0/BilletLibrary.xml
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/obj/Debug/netstandard2.0/StoreBæltBilletLibrary.csprojAssemblyReference.cache
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/obj/Debug/netstandard2.0/StoreBæltBilletLibrary.csproj.CoreCompileInputs.cache
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/obj/Debug/netstandard2.0/StoreBæltBilletLibrary.AssemblyInfoInputs.cache
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/obj/Debug/netstandard2.0/StoreBæltBilletLibrary.AssemblyInfo.cs
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/obj/Debug/netstandard2.0/StoreBæltBilletLibrary.csproj.CopyComplete
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/obj/Debug/netstandard2.0/StoreBæltBilletLibrary.dll
+/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/obj/Debug/netstandard2.0/StoreBæltBilletLibrary.pdb
