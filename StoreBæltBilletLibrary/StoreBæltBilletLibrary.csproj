@@ -4,4 +4,12 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+  <Reference Include="BilletLibrary">
+    <HintPath>dll/BilletLibrary.dll</HintPath>
+    <SpecificVersion>False</SpecificVersion> 
+    <!-- You may set it to true if your dll has a specific version -->
+  </Reference>
+</ItemGroup>
+
 </Project>
