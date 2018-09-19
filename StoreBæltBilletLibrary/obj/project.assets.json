@@ -176,28 +176,30 @@
     ]
   },
   "packageFolders": {
-    "/home/sebastian/.nuget/packages/": {},
-    "/opt/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\soeren\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/StoreBæltBilletLibrary.csproj",
+      "projectUniqueName": "C:\\source\\Program\\Seb\\Puller\\storebaeltlibrary-sebkirller\\StoreBæltBilletLibrary\\StoreBæltBilletLibrary.csproj",
       "projectName": "StoreBæltBilletLibrary",
-      "projectPath": "/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/StoreBæltBilletLibrary.csproj",
-      "packagesPath": "/home/sebastian/.nuget/packages/",
-      "outputPath": "/home/sebastian/Desktop/Skole/VS Projects/3. semester/BilletSystem/storebaeltlibrary-sebkirller/StoreBæltBilletLibrary/obj/",
+      "projectPath": "C:\\source\\Program\\Seb\\Puller\\storebaeltlibrary-sebkirller\\StoreBæltBilletLibrary\\StoreBæltBilletLibrary.csproj",
+      "packagesPath": "C:\\Users\\soeren\\.nuget\\packages\\",
+      "outputPath": "C:\\source\\Program\\Seb\\Puller\\storebaeltlibrary-sebkirller\\StoreBæltBilletLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/opt/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/sebastian/.config/NuGet/NuGet.Config"
+        "C:\\Users\\soeren\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
